@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+main{
+  background: white;
+}
+
+p{
+  padding: 10%;
+  font-size: 5rem;
+  
+}
